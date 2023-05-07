@@ -1,0 +1,14 @@
+name: Discord-PM4
+author: Blody
+version: 1.19.70
+api: 4.20.0
+main: Discord\Blody
+
+commands:
+ discord:
+  description: "Sunucunun discord linkini görüntüler."
+  permission: "discord.perm"
+
+permissions:
+ discord.perm:
+  default: true 
