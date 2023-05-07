@@ -1,6 +1,6 @@
 <?php
 
-namespace discord;
+namespace Discord;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
